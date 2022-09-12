@@ -11,14 +11,9 @@ background: 'https://cdn.discordapp.com/attachments/1007761195496906883/10186440
 favicon: 'favicon.ico'
 
 # Online profiles
-#dribbble: 'mydribbble'
-facebook: 'myfacebook'
-twitter: 'mytwitter'
-#linkedin: 'mylinkedin'
-instagram: 'myinsta'
-#pinterest: 'mypinterest'
-youtube: 'myyoutube'
-github-user: 'mygithub'
+twitter: 'AnneliseWwang'
+instagram: 'AnneliseWwang'
+youtube: 'AnneliseWwang'
 #gitlab-user: ''
 #codepen: ''
 #steam: ''
@@ -28,14 +23,10 @@ github-user: 'mygithub'
 #reddit: ''
 #rubygems: ''
 #medium:  ''
-tumblr: 'mytumblr'
-weibo: 'myweibo'
-vk: 'myvk'
-blog_url: 'myblog.blog.com'
+weibo: 'AnneliseWwang'
 email: 'hello@example.com'
-messenger: 'myfbchat'
 
-social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email]
+social-links-order: [twitter, instagram, youtube, email]
 
 # Yaml manifest of supported social links
 # Requirements:
